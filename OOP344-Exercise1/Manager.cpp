@@ -1,6 +1,6 @@
 #include "Manager.h"
 #include <iostream>
-
+//comment
 Manager::Manager()
    {
    totalHours = 0;
