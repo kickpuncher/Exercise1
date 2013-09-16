@@ -1,6 +1,7 @@
 #include "Manager.h"
+#include "Employee.h"
 #include <iostream>
-//comment
+
 Manager::Manager()
    {
    totalHours = 0;

@@ -1,7 +1,6 @@
 class Manager;
 
-class Employee
-   {
+class Employee{
    private:
       int ID;
       char* name;
